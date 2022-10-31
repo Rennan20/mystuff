@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Rennan</title>
+
+    <style>
+      body {
+        text-align: center;
+        background: url("https://www.rededrogadada.com.br/wp-content/uploads/2018/02/fundo-vermelho.jpg");
+        background-size: 100%;
+        font-family: Arial;
+      }
+
+      h1 {
+        font-size:24px;
+        margin-top: 0;
+        margin-bottom:0;
+      }
+
+      h2 {
+        font-size: 18px;
+        color: #ffffff;
+        font-weight: normal;
+        margin-top: 0;
+        margin-bottom:30px;
+      }
+
+      .retrato {
+        width: 150px;
+        border-radius: 150px;
+        border: 5px solid #ffffff;
+        margin-top: 40px;
+        margin-bottom: 10px;
+      }
+
+      a {
+        color: #ffffff;
+        text-decoration: none;
+        background-color:rgba(221, 219, 219, 0.329);
+        width:200px;
+        height: 40px;
+        line-height: 35px;
+        margin-bottom: 10px;
+        display: inline-block;
+        border-radius: 25px;
+        font-family: Arial;
+        font-size: 10;
+        font-weight: bold;
+      }
+
+      .icone {
+       width: 30px;
+      }
+
+    </style>
+  </head>
+  <body>
+    <img class="retrato"
+    src="https://media-exp1.licdn.com/dms/image/C4D03AQHfKpN7s8ptXQ/profile-displayphoto-shrink_800_800/0/1642340248796?e=1672876800&v=beta&t=Hj3QS0C9XpviwnztIzdWuFMSbeGF9hh7djdrLCvAk44"</img>
+  <br />
+  <h1> José Rennan </h1>
+  <h2> Estudante </h2>
+  <a href="https://www.linkedin.com/in/rennan-silva-47831a186/">
+    <img class="icone" src="assets/linkedin-png8-removebg-preview.png" />
+    Meu linkedin
+  </a>
+  <br />
+  <a href="https://web.whatsapp.com/send?phone=5588996080529" target = "_blank">
+    <img class ="icone" src="assets/wpp.png" />
+     Fale comigo :)
+
+  </a>
+</body>
+</html>
