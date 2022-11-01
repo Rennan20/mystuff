@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>FoodBox</title>
+
+    <style>
+      body {
+        background: silver;
+      }
+      .principal {
+        color: white;
+        background: red;
+        padding: 5px;
+        border-radius: 10px;
+      }
+
+      .produto1 {
+        background: white;
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+      }
+
+      .produto2 {
+        background: white;
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+      }
+
+      .produto3 {
+        background: white;
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+      }
+
+      .produto4 {
+        background: white;
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+      }
+
+      .produto5 {
+        background: white;
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+      }
+
+      .produto6 {
+        background: white;
+        padding: 15px;
+        border-radius: 10px;
+        margin-bottom: 10px;
+      }
+
+      .frangoYinYang {
+        width: 130px;
+        border-radius: 5px;
+        float:right;
+      }
+
+      .carneSalada {
+        width: 130px;
+        border-radius: 5px;
+        float: right;
+      }
+
+      .cocas {
+        width: 130px;
+        border-radius: 5px;
+        float: right;
+      }
+
+      .suco {
+        width: 130px;
+        border-radius: 5px;
+        float: right;
+      }
+
+      .pudim {
+        width:130px;
+        border-radius: 5px;
+        float: right;
+      }
+
+      .mousse {
+        width:130px;
+        border-radius: 5px;
+        float: right;
+      }
+
+      h1 {
+        margin: 0;
+      }
+
+      h2 {
+        margin: 0;
+        font-size: 18px;
+      }
+
+      h3 {
+        font-size: 28px;
+        margin-bottom: 5px;
+      }
+
+      h4 {
+        margin-top: 0;
+        font-size: 20px;
+        margin-bottom: 5px;
+      }
+
+      h5 {
+        margin-top: 0;
+        font-size: 20px;
+        margin-bottom: 5px;
+      }
+
+      h6 {
+        font-size: 28px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+      }
+
+      h7 {
+        margin-top: 0;
+        font-size: 20px;
+        margin-bottom: 5px;
+      }
+
+      h8 {
+        margin-top: 0;
+        font-size: 20px;
+        margin-bottom: 5px;
+      }
+
+      h9 {
+        font-size: 28px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+      }
+
+      h10 {
+        margin-top: 0;
+        font-size: 20px;
+        margin-bottom: 5px;
+      }
+
+      h11 {
+        margin-top: 0;
+        font-size: 20px;
+        margin-bottom: 5px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="principal">
+      <h1>FoodBox</h1>
+      <h2>Faça seu pedido e receba o mais rápido possivel!</h2>
+    </div>
+
+    <h3>Primeiro seu prato</h3>
+
+    <div class="produto1">
+      <img class="frangoYinYang" src="https://img.elo7.com.br/product/original/22565B3/adesivo-parede-prato-comida-frango-salada-restaurante-lindo-adesivo-parede.jpg"</img>
+      <h4>Frango YinYang</h4>
+      <p>Um pouco de batata, um pouco de salada</p>
+      <p><strong> R$ 19,90 </strong></p>
+    </div>
+
+    <div class="produto2">
+      <img class="carneSalada" src="https://img.itdg.com.br/tdg/images/recipes/000/093/749/29380/29380_original.jpg"</img>
+      <h5>Carne e salada</h5>
+      <p>Caprichada no molho</p>
+      <p><strong> R$ 22,90 </strong></p>
+    </div>
+
+    <h6>Agora sua bebida</h6>
+
+    <div class="produto3">
+      <img class="cocas" src="https://1.bp.blogspot.com/-bfQHLsT294c/X8mO8ggqcFI/AAAAAAAB108/cm0GO3ee-1w2OQnASN9BuoKEN3nc9leCACLcBGAsYHQ/s16000/coke%2Bbrasil%2B4.jpg"</img>
+      <h7>Coquinha geladinha</h7>
+      <p><strong> Lata R$ 2,89 </strong></p>
+      <p><strong> Litro R$ 7,00 </strong></p>
+      <p><strong> 2 Litros R$ 10,00 </strong></p>
+    </div>
+
+    <div class="produto4">
+      <img class="suco" src="https://s2.glbimg.com/yjcPVlzjDbjjR7-IchbdJFLIbao=/0x0:1254x836/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_bc8228b6673f488aa253bbcb03c80ec5/internal_photos/bs/2022/3/3/92w4EYREyRINApxl77eQ/suco-frutas.jpg"</img>
+      <h8>Sucos</h8>
+      <p><Strong>350ml R$ 3,00</strong></p>
+      <p><Strong>500ml R$ 5,00</strong></p>
+      <p><Strong>1L R$ 8,00</strong></p>
+      <p><Strong>Opções:</strong> Laranja, Manga, Goiaba, Mracujá</p>
+    </div>
+
+  <h9><Strong>Sobremesas</Strong></h9>
+
+  <div class="produto5">
+    <img class="pudim" src="https://img.itdg.com.br/tdg/images/recipes/000/031/593/318825/318825_original.jpg?mode=crop&width=710&height=400"</img>
+    <h10><Strong>Pudim</Strong></h10>
+    <p><Strong>R$ 2,50</strong></p>
+  </div>
+
+  <div class="produto6">
+    <img class="mousse" src="https://i.ytimg.com/vi/-AdP9roAPao/maxresdefault.jpg"</img>
+    <h11><Strong>Mousse de leite ninho</Strong></h11>
+    <p><Strong>R$ 3,00</strong></p>
+  </div>
+
+  </body>
+</html>
