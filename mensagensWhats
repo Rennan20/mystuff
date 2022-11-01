@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Disparador automático</title>
+  </head>
+  <style>
+    @import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap");
+
+    body {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      background-image: url("https://i.pinimg.com/564x/cf/14/0d/cf140dac517f37fc801b6b91aaf76fea--originals.jpg");
+      background-size: cover;
+      font-family: "Roboto", sans-serif;
+    }
+    div {
+      display: flex;
+      justify-content: space-around;
+      align-items: center;
+      background: #daf7c1;
+      width: 320px;
+      margin: 8px;
+      padding: 8px 18px;
+      border-radius: 16px;
+      box-shadow: 2px 2px rgba(0, 0, 0, 0.2);
+    }
+
+    div:hover {
+      box-shadow: 4px 4px rgba(0, 0, 0, 0.4);
+      cursor: pointer;
+    }
+
+    .logo {
+      width: 38px;
+      height: 38px;
+      display: flex;
+    }
+  </style>
+  <body>
+    <div onclick="whats(this)">
+      <p>Concordo com tudo que você disse</p>
+      <img class="logo" src="assets/wpp.png" />
+    </div>
+
+    <div onclick="whats(this)">
+      <p>Concordo com tudo que você disse</p>
+      <img class="logo" src="assets/wpp.png" />
+    </div>
+
+    <div onclick="whats(this)">
+      <p>Concordo com tudo que você disse</p>
+      <img class="logo" src="assets/wpp.png" />
+    </div>
+
+    <div onclick="whats(this)">
+      <p>Concordo com tudo que você disse</p>
+      <img class="logo" src="assets/wpp.png" />
+    </div>
+
+    <div onclick="whats(this)">
+      <p>Concordo com tudo que você disse</p>
+      <img class="logo" src="assets/wpp.png" />
+    </div>
+
+    <div onclick="whats(this)">
+      <p>Concordo com tudo que você disse</p>
+      <img class="logo" src="assets/wpp.png" />
+    </div>
+
+    <script>
+      function whats(elemento) {
+        let numero = prompt("Qual é o número?(No formato (xxxxxxxxx))");
+        console.log(numero);
+        let texto = elemento.firstElementChild.innerText;
+        console.log(texto);
+        let link = `https://api.whatsapp.com/send?phone=88${numero}&text=${texto}`;
+
+        window.open(link);
+      }
+    </script>
+  </body>
+</html>
