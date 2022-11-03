@@ -1,0 +1,1893 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <title>Awax</title>
+    <meta name="viewport" content="width=devie-width,minimum-scale=1,initial-scale=1"/>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap">
+    <link rel="stylesheet" type="text/css" href="assets/css/style.css"/>
+</head>
+<body>
+<header>
+    <div class="header">
+    <div class="logo">
+        <div class="logoimg"><img class="logoimg" src="assets/images/logocarinha.jpg"/></div>
+    </div>
+    <div class="menu">
+        <nav>
+            <ul>
+                <li class="active"><a href="">Home</a></li>
+                <li><a href="">About us</a></li>
+                <li><a href="">Services</a></li>
+                <li><a href="">Our projects</a></li>
+                <li><a href="">Our team</a></li>
+                <li><a href="">Happy clients</a></li>
+                <li><a href="">Pirce</a></li>
+                <li><a href="">Some facts</a></li>
+                <li><a href="">Contact us</a></li>
+            </ul>
+        </nav>
+    </div>
+</div>
+</header>
+
+<main>
+    <section class="banner">
+        <div class="sliders" style="margin-left: 0 ;">
+            <div class="slide">
+                <div class="slidearea">
+                    <h1>Design is about</br><span>Communication</span></h1>
+                    <h2>Call Us: +55 88 99608 0529</h2>
+                    <a href="" class="button">Get in touch</a>
+                </div>
+            </div>
+            <div class="slide">
+                <div class="slidearea">
+                    <h1>Design is test</br><span>Communication</span></h1>
+                    <h2>Call Us: +55 88 99608 0529</h2>
+                    <a href="" class="button">Get in touch</a>
+                </div>
+            </div>
+            <div class="slide">
+                <div class="slidearea">
+                    <h1>Design is something</br><span>Communication</span></h1>
+                    <h2>Call Us: +55 88 99608 0529</h2>
+                    <a href="" class="button">Get in touch</a>
+                </div>
+            </div>
+        </div>
+        <div class="sliders-pointers">
+            <div class="pointer active"></div>
+            <div class="pointer"></div>
+            <div class="pointer"></div>
+        </div>
+    </section>
+
+    <section class="default ligth">
+        <div class="section-title">About us</div>
+        <div class="section-desc">Who we are</div>
+        <div class="section-body">
+            <div class="section-aboutus">
+                <div class="section-aboutus--left">
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum finibus tincidunt lacus sit amet varius. Ut viverra leo et orci ultricies, eu maximus orci placerat. Cras blandit nisi sem, ut tempus metus consectetur a. Nulla tempor non augue non imperdiet. Sed imperdiet arcu sit amet leo egestas, non bibendum sem accumsan. Proin viverra dolor a massa venenatis, ac scelerisque felis lacinia. Quisque lectus leo, hendrerit vulputate condimentum et, efficitur at sem. Duis dictum nibh a arcu tincidunt bibendum quis vitae libero. Integer non tincidunt felis. Suspendisse nec lacus rhoncus, ultricies libero at, tempus risus. </p>p>
+                </br>
+                    <a href="" class="button">Learn more</a>
+                </div>
+                <div class="section-aboutus--right">
+                    <img src="media/foto9.jpg"/>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="default dark">
+        <div class="section-title">Services</div>
+        <div class="section-desc">Services that we provide</div>
+        <div class="section-body">
+            <div class="section-services">
+                <div class="section-service">
+                    <img src="assets/images/medalha.png">
+                    <h4>High Quality Design</h4>
+                    <p>Morbi et tempor</p>
+                </div>
+                <div class="section-service">
+                    <img src="assets/images/estrela.png">
+                    <h4>Modern Design</h4>
+                    <p>Integer enim massa, euismod nec quam </p>
+                </div>
+                <div class="section-service">
+                    <img src="assets/images/relogio.png">
+                    <h4>Regular updates</h4>
+                    <p>Nulla mauris purus, bibendum.  </p>
+                </div>
+                <div class="section-service">
+                    <img src="assets/images/balao.png">
+                    <h4>Fast and free support</h4>
+                    <p>Morbi et tempor</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="default ligth">
+        <div class="section-title">Our projects</div>
+        <div class="section-desc">What we create</div>
+        <div class="section-body">
+            <div class="section-projects">
+               <div class="section-projects--filters">
+                    <ul>
+                        <li class="active">All</li>
+                        <li>Photos</li>
+                        <li>Branding</li>
+                        <li>Adverts</li>
+                        <li>Development</li>
+                        <li>Misc</li>
+                    </ul>
+               </div>
+                <div class="section-projects--photos">
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto1.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto2.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto3.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto4.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto5.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto6.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto1.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto2.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto3.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto4.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto5.jpg">
+                        </div>
+                    </div>
+
+                    <div class="section-projects--photo">
+                        <div class="section-projects--photoarea">
+                            <div class="section-projects--photoinfo">
+                                <h5>ABOUT</h5>
+                                <p>Pequena descrição</p>
+                            </div>
+                            <img src="media/foto6.jpg">
+                        </div>
+                    </div>
+
+                    <a href="" class="button">More projects</a>
+                </div>
+            </div>
+    </section>
+
+    <section class="default dark bg-team">
+        <div class="section-team-area">
+        <div class="section-title">Our Team</div>
+        <div class="section-desc">Our Co-Workers</div>
+        <div class="section-body">
+            <div class="section-team">
+                <div class="sliders" style="margin-left: 0 ;">
+                    <div class="slide">
+                        <div class="slidearea">
+                            <img class="section-team--avatar" src="media/mulher1.png" />
+                            <div class="section-team--name">Jane Doe</div>
+                            <div class="section-team--role">Mastermind</div>
+                            <div class="section-team--social">
+                                <a href=""><img src="assets/images/twitter.png"></a>
+                                <a href=""><img src="assets/images/googleplus.png"></a>
+                                <a href=""><img src="assets/images/linkedin.png"></a>
+                                <a href=""><img src="assets/images/pinterest.png"></a>
+                                <a href=""><img src="assets/images/facebook.png"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="slidearea">
+                            <img class="section-team--avatar" src="media/homem1.png" />
+                            <div class="section-team--name">Mike Shiller</div>
+                            <div class="section-team--role">Creative Head</div>
+                            <div class="section-team--social">
+                                <a href=""><img src="assets/images/twitter.png"></a>
+                                <a href=""><img src="assets/images/googleplus.png"></a>
+                                <a href=""><img src="assets/images/linkedin.png"></a>
+                                <a href=""><img src="assets/images/pinterest.png"></a>
+                                <a href=""><img src="assets/images/facebook.png"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="slide">
+                        <div class="slidearea">
+                            <img class="section-team--avatar" src="media/mulher2.png" />
+                            <div class="section-team--name">Anna Johns</div>
+                            <div class="section-team--role">Technical Head</div>
+                            <div class="section-team--social">
+                                <a href=""><img src="assets/images/twitter.png"></a>
+                                <a href=""><img src="assets/images/googleplus.png"></a>
+                                <a href=""><img src="assets/images/linkedin.png"></a>
+                                <a href=""><img src="assets/images/pinterest.png"></a>
+                                <a href=""><img src="assets/images/facebook.png"></a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="sliders-pointers">
+                <div class="pointer active"></div>
+                <div class="pointer"></div>
+                <div class="pointer"></div>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <section class="default light clients-review">
+        <div class="section-team-area">
+            <div class="section-title">Happy Clients</div>
+            <div class="section-desc">Client Reviews</div>
+            <div class="section-body">
+                <div class="section-review">
+                    <div class="sliders" style="margin-left:0">
+                        <div class="slide">
+                            <div class="slidearea">
+                                <img class="section-team--avatar" src="./media/homem2.png" />
+                                <div class="section-team--name">John Doe</div>
+                                <div class="section-review--role">Head of PR Department</div>
+                                <div class="section-team--quote">
+                                    <a href="./"><img src="./assets/images/quote.png" /></a>
+                                    <p>Qui corrupti voluptatem a internos odit qui iste labore id illo possimus
+                                        aspernatur repellat et assumenda blanditiis. Sit dolorem harum et omnis
+                                        consequuntur 33 galisum sapiente. Ut labore unde aut iusto sint sed
+                                        voluptatum sequi.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="slidearea">
+                                <img class="section-team--avatar" src="./media/mulher2.png" />
+                                <div class="section-team--name">John Doe</div>
+                                <div class="section-review--role">Head of PR Department</div>
+                                <div class="section-team--quote">
+                                    <a href="./"><img src="./assets/images/quote.png" /></a>
+                                    <p>Qui corrupti voluptatem a internos odit qui iste labore id illo possimus
+                                        aspernatur repellat et assumenda blanditiis. Sit dolorem harum et omnis
+                                        consequuntur 33 galisum sapiente. Ut labore unde aut iusto sint sed
+                                        voluptatum sequi.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="slidearea">
+                                <img class="section-team--avatar" src="./media/homem2.png" />
+                                <div class="section-team--name">John Doe</div>
+                                <div class="section-review--role">Head of PR Department</div>
+                                <div class="section-team--quote">
+                                    <a href="./"><img src="./assets/images/quote.png" /></a>
+                                    <p>Qui corrupti voluptatem a internos odit qui iste labore id illo possimus
+                                        aspernatur repellat et assumenda blanditiis. Sit dolorem harum et omnis
+                                        consequuntur 33 galisum sapiente. Ut labore unde aut iusto sint sed
+                                        voluptatum sequi.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="slidearea">
+                                <img class="section-team--avatar" src="./media/mulher2.png" />
+                                <div class="section-team--name">John Doe</div>
+                                <div class="section-review--role">Head of PR Department</div>
+                                <div class="section-team--quote">
+                                    <a href="./"><img src="./assets/images/quote.png" /></a>
+                                    <p>Qui corrupti voluptatem a internos odit qui iste labore id illo possimus
+                                        aspernatur repellat et assumenda blanditiis. Sit dolorem harum et omnis
+                                        consequuntur 33 galisum sapiente. Ut labore unde aut iusto sint sed
+                                        voluptatum sequi.</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="sliders-pointers">
+                <div class="pointer active"></div>
+                <div class="pointer"></div>
+                <div class="pointer"></div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-companies">
+        <div class="box-total">
+            <img src="./media/empresa1.png" />
+            <img src="./media/empresa2.png" />
+            <img src="./media/empresa3.png" />
+            <img src="./media/empresa4.png" />
+            <img src="./media/empresa5.png" />
+            <img src="./media/empresa6.png" />
+        </div>
+
+    </section>
+    <section class="default light price">
+        <div class="section-team-area">
+            <div class="section-title">Price</div>
+            <div class="section-desc">Pricing Table</div>
+            <div class="section-body">
+                <div class="section-review price">
+                    <div class="sliders">
+                        <div class="slide">
+                            <div class="slidearea">
+                                <div class="section-team--name">Express</div>
+                                <div class="section-review--role">
+                                    <p><strong>$9.99</strong><br />/month</p>
+                                </div>
+                                <div class="section-team--desc">
+                                    <p>Tracking issues<br />--
+                                    </p>
+                                    <p>Add bugs through email<br />--
+                                    </p>
+                                    <p>Notifications<br />--
+                                    </p>
+                                    <p>Time tracking<br />--
+                                    </p>
+                                    <p>Custom views</p>
+                                </div>
+                                <a href="./" class="button price">Choose</a>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="slidearea">
+                                <div class="section-team--name">Standard</div>
+                                <div class="section-review--role">
+                                    <p><strong>$14.99</strong><br />/month</p>
+                                </div>
+                                <div class="section-team--desc">
+                                    <p>Tracking issues<br />--
+                                    </p>
+                                    <p>Add bugs through email<br />--
+                                    </p>
+                                    <p>Notifications<br />--
+                                    </p>
+                                    <p>Time tracking<br />--
+                                    </p>
+                                    <p>Custom views</p>
+                                </div>
+                                <a href="./" class="button price">Choose</a>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="slidearea">
+                                <div class="section-team--name">Luxe</div>
+                                <div class="section-review--role">
+                                    <p><strong>$19.99</strong><br />/month</p>
+                                </div>
+                                <div class="section-team--desc">
+                                    <p>Tracking issues<br />--
+                                    </p>
+                                    <p>Add bugs through email<br />--
+                                    </p>
+                                    <p>Notifications<br />--
+                                    </p>
+                                    <p>Time tracking<br />--
+                                    </p>
+                                    <p>Custom views</p>
+                                </div>
+                                <a href="./" class="button price">Choose</a>
+                            </div>
+                        </div>
+                        <div class="slide">
+                            <div class="slidearea">
+                                <div class="section-team--name">Premium</div>
+                                <div class="section-review--role">
+                                    <p><strong>$24.99</strong><br />/month</p>
+                                </div>
+                                <div class="section-team--desc">
+                                    <p>Tracking issues<br />--
+                                    </p>
+                                    <p>Add bugs through email<br />--
+                                    </p>
+                                    <p>Notifications<br />--
+                                    </p>
+                                    <p>Time tracking<br />--
+                                    </p>
+                                    <p>Custom views</p>
+                                </div>
+                                <a href="./" class="button price active">Choose</a>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="default light">
+        <div class="section-title">Premium</div>
+        <div class="section-desc">Even more features available</div>
+        <div class="section-body">
+            <div class="section-premium">
+                <div class="section-premium--left">
+                    <div class="box-content">
+                        <div class="box-content-verif"><img src="./assets/images/check.png" /></div>
+                        <div class="box-content-text">
+                            <h4>First Feature</h4>
+                            <p>Ad saepe accusamus aut assumenda voluptatem eum quis nisi quo adipisci consequatur
+                                nam nihil eveniet quo nihil impedit quo necessitatibus sunt.</p>
+                            <p class="feature">--Feature One</p>
+                            <p class="feature">--Feature Two</p>
+                            <p class="feature">--Feature Three</p>
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <div class="box-content-verif"><img src="./assets/images/check.png" /></div>
+                        <div class="box-content-text">
+                            <h4>Second Feature</h4>
+                            <p>Ad saepe accusamus aut assumenda voluptatem eum quis nisi quo adipisci consequatur
+                                nam nihil eveniet quo nihil impedit quo necessitatibus sunt.</p>
+                        </div>
+                    </div>
+                    <div class="box-content">
+                        <div class="box-content-verif"><img src="./assets/images/check.png" /></div>
+                        <div class="box-content-text">
+                            <h4>Third Feature</h4>
+                            <p>Ad saepe accusamus aut assumenda voluptatem eum quis nisi quo adipisci consequatur
+                                nam nihil eveniet quo nihil impedit quo necessitatibus sunt.</p>
+                        </div>
+                    </div>
+
+                </div>
+                <div class="section-premium--right"><img src="./media/livros.png" /> </div>
+
+            </div>
+            <div class="sliders-pointers">
+                <div class="pointer active"></div>
+                <div class="pointer"></div>
+                <div class="pointer"></div>
+            </div>
+
+            <a href="./" class="button premium">Get in touch!</a>
+        </div>
+    </section>
+
+    <section class="default dark">
+        <div class="section-title">Some Facts</div>
+        <div class="section-desc">About our work</div>
+        <div class="section-body">
+            <div class="section-services--facts">
+                <div class="section-service--facts">
+                    <h1>1000</h1>
+                    <div class="border"></div>
+                    <h4>Designed projects released</h4>
+                    <p>Excepteur sint occaecat cupidatat non proident</p>
+                </div>
+                <div class="section-service--facts">
+                    <h1>900</h1>
+                    <div class="border"></div>
+                    <h4>Photos</h4>
+                    <p>Excepteur sint occaecat cupidatat non proident</p>
+                </div>
+                <div class="section-service--facts">
+                    <h1>500</h1>
+                    <div class="border"></div>
+                    <h4>Marketing<br />ideas</h4>
+                    <p>Excepteur sint occaecat cupidatat non proident</p>
+                </div>
+
+                <div class="section-service--facts">
+                    <h1>100</h1>
+                    <div class="border"></div>
+                    <h4>Exhibitions</h4>
+                    <p>Excepteur sint occaecat cupidatat non proident</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="section-companies">
+        <div class="box-socials">
+            <div class="box-socials--logo--text">
+                <div class="box-socials--logo">
+                    <a href="./"><img src="./assets/images/share.png" /></a>
+                </div>
+                <h6>Tell about us</h6>
+            </div>
+            <div class="box-socials--logo--text">
+                <div class="box-socials--logo" style="background-color:#33c4f0">
+                    <a href="./"><img src="./assets/images/twitter.png" /></a>
+                </div>
+                <p>152</p>
+            </div>
+            <div class="box-socials--logo--text">
+                <div class="box-socials--logo" style="background-color:#107db5">
+                    <a href="./"><img src="./assets/images/linkedin.png" /></a>
+                </div>
+                <p>31</p>
+            </div>
+            <div class="box-socials--logo--text">
+                <div class="box-socials--logo" style="background-color:#336296">
+                    <a href="./"><img src="./assets/images/facebook.png" /></a>
+                </div>
+                <p>165</p>
+            </div>
+            <div class="box-socials--logo--text">
+                <div class="box-socials--logo" style="background-color:#e74337">
+                    <a href="./"><img src="./assets/images/googleplus.png" /></a>
+                </div>
+                <p>22</p>
+            </div>
+
+            <div class="box-socials--logo--text">
+                <div class="box-socials--logo" style="background-color:#b81c29">
+                    <a href="./"><img src="./assets/images/pinterest.png" /></a>
+                </div>
+                <p>165</p>
+            </div>
+        </div>
+
+    </section>
+    <section class="default light">
+        <div class="section-title">Contact Us</div>
+        <div class="section-desc">Our agency located in melbourne, australia</div>
+        <div class="section-body">
+            <div class="section-premium--form">
+
+                <div class="fname--email-1">
+                    <input type="text" class="fname" name="fname" placeholder="NAME" />
+                    <input type="email" class="fname" name="fname" placeholder="EMAIL" />
+                </div>
+
+                <div class="fname--email-2">
+                    <input type="text" class="fname" name="fname" placeholder="SUBJECT" />
+                    <input type="email" class="fname" name="fname" placeholder="MESSAGE" />
+                </div>
+
+            </div>
+            <a href="./" class="button premium">Send a message</a>
+        </div>
+    </section>
+
+    <section class="section-map">
+        <div class="section-map--area">
+            <div class="section-map--info">
+                <div class="section-map--info-item">
+                    <div class="section-map--info-item-img">
+                        <img src="assets/images/carta.png" />
+                    </div>
+                     Endereço completo
+                </div>
+
+                <div class="section-map--info-item">
+                    <div class="section-map--info-item-img">
+                        <img src="assets/images/localizacao.png" />
+                    </div>
+                     Endereço completo
+                </div>
+
+                <div class="section-map--info-item">
+                    <div class="section-map--info-item-img">
+                        <img src="assets/images/telefone.png" />
+                    </div>
+                     Endereço completo
+                </div>
+
+                <div class="section-map--info-item">
+                    <div class="section-map--info-item-img">
+                        <img src="assets/images/arroba.png" />
+                    </div>
+                     Endereço completo
+                </div>
+
+                <div class="section-map--info-item">
+                    <div class="section-map--info-item-img">
+                        <img src="assets/images/web.png" />
+                    </div>
+                     Endereço completo
+                </div>
+            </div>
+        </div>
+    </section>
+</main>
+
+<footer>
+    <div class="footer--area">
+        <div class="footer--item area1">
+            <div class="footer-social">
+                <a href=""><img src="assets/images/twitter.png" /></a>
+                <a href=""><img src="assets/images/linkedin.png" /></a>
+                <a href=""><img src="assets/images/facebook.png" /></a>
+                <a href=""><img src="assets/images/googleplus.png" /></a>
+                <a href=""><img src="assets/images/pinterest.png" /></a>
+            </div>
+        </div>
+        <div class="footer--item area2">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel eros vitae erat condimentum viverra a nec lacus. Maecenas eros lectus, rhoncus vel dictum vel, dignissim eget ligula. Vestibulum id tempus quam, sed pellentesque quam. Vestibulum porta aliquet risus, ac rhoncus sem aliquet ac. Donec tincidunt cursus elit vitae euismod.
+        </div>
+        <div class="footer--item area3">
+            <form method="POST">
+                <input type="email" name="email" placeholder="EMAIL TO SUBSCRIBE" />
+                <button class="button">Subscribe</button>
+            </form>
+        </div>
+    </div>
+</footer>
+</body>
+</html>
+
+
+
+
+//CSS
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Montserrat','Arial','Helvetica','sans-serif';
+    font-size: 12px;
+    overflow-x: hidden;
+}
+header {
+    height: 100px;
+    background-color: black;
+    color: white;
+}
+.header {
+    max-width: 1140px;
+    height: 100px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+
+.logo {
+    width: 100px;
+}
+
+.menu {
+    flex:1;
+    display: flex;
+    justify-content: flex-end;
+
+}
+
+.logoimg {
+    width: 100px;
+    height: 100px;
+    border-radius: 20px;
+}
+
+.menu ul,
+.menu li {
+    list-style: none;
+}
+
+.menu ul {
+    display: flex;
+}
+
+.menu li a {
+    color: white;
+    text-transform: uppercase;
+    font-weight: 600;
+    text-decoration:none;
+    padding-left: 10px;
+    padding-right: 10px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    border-bottom: 5px solid black;
+}
+
+.menu li a:hover,
+.menu .active a {
+    border-bottom: 5px solid #B28756;
+    color: #CCC;
+}
+
+
+.banner {
+    height: calc(100vh - 100px);
+    background-color:#333;
+    background-image: url('../images/bg.jpg');
+    background-size: cover;
+    background-position: bottom;
+    overflow: hidden;
+}
+
+.banner .sliders {
+    width:1000vw;
+    height: 100%;
+}
+
+.banner .slide {
+    width: 100vw;
+    height: 100%;
+    display:inline-block;
+    background-color: rgba(0, 0, 0, 0.8);
+}
+
+.banner .slidearea {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: #FFF;
+    flex-direction: column;
+}
+
+.banner h1 {
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+.banner h1 span {
+    color: #B28756;
+}
+
+.banner h2 {
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+
+.button {
+    display: inline-block;
+    background-color: #B28756;
+    color: #FFF;
+    text-transform: uppercase;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.banner .sliders-pointers {
+    width: 100vw;
+    height: 20px;
+    position: absolute;
+    margin-top: -50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.banner .pointer {
+    width: 15px;
+    height: 15px;
+    border: 2px solid #B28756;
+    border-radius: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.banner .pointer.active {
+    background-color: #B28756;
+}
+
+
+.default {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.default .section-title,
+.default .section-desc {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.default .section-title{
+    font-size: 20px;
+}
+
+.default .section-desc {
+    font-size: 12px;
+    color: #CCC;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+
+.default .section-body {
+    max-width: 1140px;
+    margin: auto;
+}
+
+.default.ligth {
+    background-color: #F7F7F7;
+
+}
+
+.default.ligth .section-title, .default.ligth .section-body {
+    color: black;
+}
+
+.default.dark {
+    background-color: black;
+}
+
+.default.dark .section-title, .default.dark .section-body {
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
+Css de areas especificas
+*/
+
+.section-aboutus {
+    display: flex;
+}
+
+.section-aboutus--left {
+    flex: 1;
+}
+
+.section-aboutus--left p{
+    font-size: 14px;
+    line-height: 24px;
+}
+
+.section-aboutus--right {
+    width: 520px;
+    text-align: center;
+}
+
+.section-aboutus--right img {
+    width: 480px;
+    box-shadow: 0px 5px 10px #333;
+}
+
+
+
+
+.section-services{
+    display: flex;
+}
+
+.section-service {
+    flex: 1;
+    text-align: center;
+    border-right: 1px solid #333;
+    padding: 15px;
+}
+
+.section-service:first-child {
+    border-left: 1px solid #333;
+}
+
+.section-service h4 {
+    margin-top: 20px;
+    text-transform: uppercase;
+    font-size: 16px;
+}
+
+.section-service p {
+    margin-top: 10px;
+    font-size: 12px;
+    color: #999;
+}
+
+
+
+.section-projects {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.section-projects--filters {
+    border:1px solid #DDD;
+    background-color: #EEE;
+    border-radius: 20px;
+    display: inline-block;
+    padding: 0px 20px;
+    
+}
+
+.section-projects--filters ul, 
+.section-projects--filters li {
+    list-style: none;
+}
+
+.section-projects--filters li {
+    display: inline-block;
+    padding: 10px;
+    text-transform: uppercase;
+    font-size: 12px;
+    border-left: 1px solid #DDD;
+    color: #333;
+    border-bottom: 3px solid #EEE;
+}
+
+.section-projects--filters li:hover, 
+.section-projects--filters li.active {
+    border-bottom: 3px solid #B28756;
+    cursor: pointer;
+}
+
+.section-projects--filters li:first-child {
+    border-left: 0;
+}
+
+
+.section-projects--photos{
+    width: 100vw;
+    max-width: 1140px;
+    margin-top: 20px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+}
+
+.section-projects--photo {
+    width: 280px;
+}
+
+.section-projects--photoarea {
+    margin: 10px;
+    width: 260px;
+    height: 160px;
+}
+
+.section-projects--photoarea img {
+    width: inherit;
+    height:  inherit;
+}
+
+.section-projects--photoinfo {
+    position: absolute;
+    background-color: rgba(0, 0 , 0, 0.5);
+    width: inherit;
+    height: inherit;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    flex-direction: column;
+}
+
+.section-projects--photoinfo h5 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.section-projects--photoarea:hover .section-projects--photoinfo {
+    display: flex;
+}
+
+
+
+.bg-team {
+    background-image:url('../images/bg.jpg');
+    background-size: cover;
+    background-position: center;
+    padding:0;
+}
+
+.section-team-area {
+    background-color: rgba(0, 0 , 0, 0.8 );
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.section-team {
+    overflow: hidden;
+    max-width: 880px;
+    margin: auto;
+}
+
+.section-team .sliders {
+    width:1000vw;
+    height: 100%;
+}
+
+.section-team .slide {
+    width: 280px;
+    height: 100%;
+    min-height: 300px;
+    display:inline-block;
+    background-color:white;
+    margin-right: 20px;
+}
+
+.section-team .slidearea {
+    display: flex;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    flex-direction: column;
+    padding: 25px;
+}
+
+.section-team-area  .sliders-pointers {
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.section-team-area  .pointer {
+    width: 15px;
+    height: 15px;
+    border: 2px solid #B28756;
+    border-radius: 8px;
+    margin-left: 5px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.section-team-area  .pointer.active {
+    background-color: #B28756;
+}
+
+.section-team--avatar{
+    width: 130px;
+    height: auto;
+}
+.section-team--name {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 17px;
+    margin-top: 30px;
+}
+
+.section-team--role {
+    font-size: 14px;
+    color: #999;
+    margin-top: 6px;
+}
+
+.section-team--social {
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.section-team--social a {
+    display: inline-flex;
+    width: 25px;
+    height: 25px;
+    background-color: #999;
+    justify-content: center;
+    align-items: center;
+    border-radius: 13px;
+    margin-right: 10px;
+}
+
+.section-team--social a:hover{
+    background-color: #B28756;
+}
+
+
+
+.clients-review {
+    padding: 0;
+}
+
+.clients-review .section-team-area {
+    background-color: #f7f7f7;
+    padding-top: 3.125em;
+    padding-bottom: 3.125em;
+}
+
+.section-review {
+    overflow: hidden;
+    max-width: 55em;
+    margin-left: 4.685em;
+}
+
+.section-review .sliders {
+    width: 1000vh;
+    height: 100%;
+}
+
+.section-review .slide {
+    width: 61.25em;
+    height: 100%;
+    min-height: 18.75em;
+    display: inline-block;
+    background-color: #f7f7f7;
+    margin-right: 1.25em;
+}
+
+.section-review .slidearea {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    padding: 1.875em;
+}
+
+.section-team-area .sliders-pointers {
+    margin-top: 1.875em;
+    height: 1.25em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-team-area .pointer {
+    width: 0.938em;
+    height: 0.938em;
+    border: 2px solid #b28756;
+    border-radius: 0.5em;
+    margin-left: 0.313em;
+    margin-right: 0.313em;
+    cursor: pointer;
+}
+
+.section-team-area .pointer.active {
+    background-color: #b28756;
+}
+
+.section-team--avatar {
+    width: 9.375em;
+    height: auto;
+}
+
+.section-team--name {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.063em;
+    margin-top: 1.875em;
+}
+
+.section-review--role {
+    font-size: 0.875em;
+    color: #000000;
+    font-weight: 600;
+    margin-top: 0.313em;
+}
+
+.section-team--quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 1.85em;
+
+}
+.section-team--quote p {
+    text-align: center;
+    margin-top: 20px;
+    color: #555;
+}
+
+.price {
+    padding: 0;
+}
+
+.price .section-team-area {
+    background-color: #ededed;
+    padding-top: 3.125em;
+    padding-bottom: 3.125em;
+}
+
+.section-review.price {
+    overflow: hidden;
+    max-width: 55em;
+    margin-left: 8.385em;
+}
+
+.section-review.price .sliders {
+    width: 38vw;
+    height: 100%;
+    display: flex;
+}
+
+.section-review.price .slide {
+    width: 61.25em;
+    height: 100%;
+    min-height: 18.75em;
+    display: inline-block;
+    background-color: #ffffff;
+    margin-right: 1.25em;
+}
+
+.section-review.price .slidearea {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    color: #000000;
+    padding: 1.875em;
+}
+
+.section-team--name {
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.063em;
+    margin-top: 1.875em;
+}
+
+.section-review--role strong {
+    font-size: 2em;
+    color: #000000;
+    font-weight: bold;
+    margin-top: 0.613em;
+}
+
+.section-review--role p {
+    font-size: 0.7em;
+    color: #ccc;
+    font-weight: bold;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.section-team--desc {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.section-team--desc p {
+    text-align: center;
+    color: #555;
+    font-size: 0.7em;
+    margin-top: 3px;
+}
+
+.button.price {
+    display: inline-block;
+    background-color: #333;
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.75em;
+    font-weight: 600;
+    text-decoration: none;
+    padding: 10px 30px;
+    margin-top: 30px;
+    border-radius: 20px;
+}
+
+.button.price.active {
+    background-color: #b28756;
+}
+
+.button.price:hover {
+    background-color: #b28756;
+}
+
+.section-premium {
+    display: flex;
+    flex-direction: row-reverse;
+    padding-bottom: 50px;
+    border-bottom: 1px solid #ccc;
+
+}
+.section-premium--left {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+}
+
+.section-premium--left p {
+    font-size: 0.875em;
+    line-height: 1.563em;
+}
+
+.section-premium--right {
+    width: 31.25em;
+    text-align: center;
+}
+
+.section-premium--right img {
+    width: 30em;
+}
+
+.box-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.box-content-text {
+    padding: 1.25em;
+}
+
+.box-content-text h4 {
+    font-size: 1.25em;
+    text-transform: uppercase;
+}
+
+.box-content-text p {
+    font-size: 0.75em;
+    color: #999;
+    margin-top: 0.313em;
+}
+
+.box-content-text .feature {
+    text-transform: uppercase;
+}
+
+.box-content-verif {
+    padding-top: 1.25em;
+}
+
+.sliders-pointers {
+    margin-top: 1.875em;
+    height: 1.25em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.pointer {
+    width: 0.938em;
+    height: 0.938em;
+    border: 2px solid #b28756;
+    border-radius: 0.5em;
+    margin-left: 0.313em;
+    margin-right: 0.313em;
+    cursor: pointer;
+}
+
+.pointer.active {
+    background-color: #b28756;
+}
+
+.button.premium {
+    display: inline-block;
+    margin-left: 400px;
+}
+
+.section-services--facts {
+    display: flex;
+}
+
+.section-service--facts {
+    flex: 1;
+    text-align: center;
+    padding: 1.938em;
+    justify-content: center;
+    align-items: center;
+}
+
+.section-service--facts h4 {
+    margin-top: 1.3em;
+    text-transform: uppercase;
+    font-size: 1.125em;
+    min-height: 2em;
+}
+
+.section-service--facts h1 {
+    color: #b28756;
+}
+
+.section-service--facts .border {
+    width: 1.25em;
+    margin: auto;
+    border-bottom: 0.125em solid #ccc;
+}
+
+.section-service--facts p {
+    display: flex;
+    margin-top: 2.3em;
+    font-size: 0.813em;
+    color: #999;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-socials {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 0.625em;
+    min-height: 3.75em;
+    border-bottom: 0.063em solid #555;
+}
+
+.box-socials--logo {
+    width: 1.875em;
+    height: 1.875em;
+    border-radius: 21.25em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box-socials--logo--text {
+    width: 160px;
+    display: flex;
+    flex-direction: row;
+    padding: 20px;
+}
+
+.box-socials--logo--text h6 {
+    color: #999;
+    font-size: 13px;
+    cursor: pointer;
+}
+
+.box-socials--logo--text p {
+    color: #999;
+    font-size: 10px;
+    align-self: center;
+    margin-left: 10px;
+    cursor: pointer;
+}
+
+.section-premium--form {
+    display: flex;
+    flex-direction: column;
+}
+
+.fname--email-1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+}
+.fname--email-1 input {
+    border: 0;
+    border-bottom: 1px solid #999;
+    padding-bottom: 10px;
+    width: 306px;
+    margin-left: 30px;
+}
+
+.fname--email-2 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.fname--email-2 input {
+    border: 0;
+    border-bottom: 1px solid #999;
+    padding-bottom: 10px;
+    width: 640px;
+    margin-left: 30px;
+    margin-top: 30px;
+    margin-bottom: 60px;
+}
+
+.section-map {
+    background-image:url('../images/mapa.jpg') ;
+    background-size: cover;
+    background-position: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.section-map--area {
+    background-size: cover;
+    max-width: 1140px;
+    margin: auto;
+}
+
+.section-map--info {
+    width: 50%;
+    padding: 30px;
+    background-color: white;
+    color: black;
+}
+
+.section-map--info-item {
+    display: flex;
+    align-items: center;
+    color: #999;
+    margin-bottom: 12px;
+}
+
+.section-map--info-item-img {
+    width: 30px;
+    height: 30px;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    background-color: #999;
+    border-radius: 15px;
+    margin-right: 15px;
+}
+
+.section-map--info-item-img img {
+    width: 15px;
+    height: auto;
+}
+
+@media (min-width:450px) and (max-width:800px) {
+    .logo {
+        margin-left:30px;
+    }
+    .menu-opener {
+        display:block;
+        width:45px;
+        margin-right:30px;
+    }
+    nav {
+        display:none;
+        position: absolute;
+        z-index: 99;
+        background-color: rgba(0, 0, 0, 0.9);
+        width: 70vw;
+        height: calc(100vh - 100px);
+        top: 100px;
+        right: 0;
+    }
+    .menu ul {
+        flex-direction:column;
+    }
+
+    .menu li a {
+        font-weight:bold;
+        height:80px;
+        font-size:27px;
+        margin-left:50px;
+        border:0;
+    }
+    .menu li.active a {
+        border:0;
+        color:#B28756;
+    }
+
+
+    .section-aboutus {
+        flex-direction:column;
+    }
+    .section-aboutus--left {
+        margin-left:30px;
+        margin-right:30px;
+        margin-bottom:30px;
+    }
+
+    .section-aboutus--right {
+        width:auto;
+    }
+
+    .section-services {
+        flex-wrap:wrap;
+    }
+    .section-service {
+        min-width:50%;
+        margin-bottom:30px;
+    }
+    .section-service:first-child {
+        border-left:0;
+    }
+
+    .section-team {
+        max-width:580px;
+    }
+
+    .section-price {
+        flex-wrap:wrap;
+    }
+    .section-price--item {
+        margin-left:20px;
+        min-width:calc(50% - 40px);
+        margin-bottom:20px;
+    }
+    .section-price--item:last-child {
+        margin-right:20px;
+    }
+
+    .section-facts {
+        flex-wrap:wrap;
+    }
+    .section-fact {
+        min-width:50%;
+    }
+
+
+    .section-map {
+        padding-left:30px;
+        padding-right:30px;
+    }
+    .section-map--area {
+        width:auto;
+    }
+    .section-map--info {
+        width:auto;
+    }
+    .section-map--info-item {
+        margin-bottom:20px;
+    }
+    .section-map--info-item:last-child {
+        margin-bottom:0;
+    }
+}
+
+
+@media (max-width:450px) {
+    .logo {
+        margin-left:30px;
+    }
+    .menu-opener {
+        display:block;
+        width:45px;
+        margin-right:30px;
+    }
+    nav {
+        display:none;
+        position: absolute;
+        z-index: 99;
+        background-color: rgba(0, 0, 0, 0.9);
+        width: 80vw;
+        height: calc(100vh - 100px);
+        top: 100px;
+        right: 0;
+    }
+    .menu ul {
+        flex-direction:column;
+    }
+
+    .menu li a {
+        font-weight:bold;
+        height:60px;
+        font-size:20px;
+        margin-left:30px;
+        border:0;
+    }
+    .menu li.active a {
+        border:0;
+        color:#B28756;
+    }
+
+    .banner h1 {
+        font-size:30px;
+    }
+    .banner h2 {
+        font-size:17px;
+    }
+
+
+    .section-aboutus {
+        flex-direction:column;
+    }
+    .section-aboutus--left {
+        margin-left:30px;
+        margin-right:30px;
+        margin-bottom:30px;
+    }
+
+    .section-aboutus--right {
+        width:auto;
+        margin-left:30px;
+        margin-right:30px;
+    }
+    .section-aboutus--right img {
+        width:100%;
+    }
+
+    .section-services {
+        flex-wrap:wrap;
+    }
+    .section-service {
+        min-width:100%;
+        margin-bottom:30px;
+    }
+    .section-service:first-child {
+        border-left:0;
+    }
+
+    .section-projects--filters {
+        margin-left:30px;
+        margin-right:30px;
+    }
+    .section-projects--photo {
+        width:320px;
+    }
+    .section-projects--photoarea {
+        width:300px;
+        height:190px;
+    }
+
+    .section-team {
+        max-width:280px;
+    }
+
+    .section-companies--area {
+        flex-wrap:wrap;
+    }
+    .section-company {
+        min-width: 50%;
+        margin-bottom: 20px;
+    }
+
+    .section-price {
+        flex-wrap:wrap;
+    }
+    .section-price--item {
+        margin-left:20px;
+        min-width:calc(100% - 40px);
+        margin-bottom:20px;
+    }
+    .section-price--item:last-child {
+        margin-right:20px;
+    }
+
+    .section-premium .slidearea {
+        flex-direction: column;
+    }
+    .section-premium--left {
+        text-align:center;
+        margin-bottom:30px;
+    }
+    .section-premium--right {
+        padding-left:20px;
+        padding-right:20px;
+    }
+
+    .section-facts {
+        flex-wrap:wrap;
+    }
+    .section-fact {
+        min-width:100%;
+    }
+
+    .section-share {
+        flex-wrap:wrap;
+        justify-content: flex-start;
+    }
+    .section-share--legend {
+        width:100vw;
+        margin:0;
+        margin-bottom:30px;
+        justify-content: center;
+    }
+    .section-share--item {
+        min-width: 50%;
+        max-width: 50%;
+        margin: 0;
+        justify-content: center;
+        flex-direction: column;
+        margin-bottom: 20px;
+        
+    }
+
+    .section-contact {
+        max-width:100vw;
+        margin-left:20px;
+        margin-right:20px;
+    }
+    .section-contact--split {
+        flex-direction: column;
+    }
+
+    .section-map {
+        padding:0;
+        padding-bottom:250px;
+    }
+    .section-map--area {
+        width:auto;
+    }
+    .section-map--info {
+        width:auto;
+    }
+    .section-map--info-item {
+        margin-bottom:20px;
+    }
+    .section-map--info-item:last-child {
+        margin-bottom:0;
+    }
+
+    .footer--area {
+        flex-direction:column;
+    }
+    .footer--item {
+        margin-bottom:20px;
+    }
+    .footer-social {
+        justify-content: center;
+    }
+}
+
+
+
